@@ -157,6 +157,13 @@ first generation down to the last, and provide a narrative overview of your fami
 
 ----------
 
+### Favorites Menu - by BWong789 - `1.3` - [website](https://github.com/bwong789/webtrees-favorites-menu)  - `2.0` - `2.1`
+
+ This module provides the Favorites support via a menu option. Items like individuals, families and media can be added or removed from a
+ favorites group from the submenu and favorites in the group can be viewed by clicking on the submenu entry. 
+
+----------
+
 ### Gallery - by vytux - `1.7` - [website](https://github.com/vytux-com/vytux_gallery3)
 
 Display all the photos in a folder.
